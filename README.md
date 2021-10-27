@@ -82,7 +82,7 @@ Now the model is in the object_detection directory and ready to be used.
 If you’re using a Picamera, make sure it is enabled in the Raspberry Pi configuration menu.
 Download the Object_detection_picamera.py file into the object_detection directory by issuing:
 ```
-wget https://github.com/AbhishekTyagi404/Object-Detection-on-Raspberry-Pi-with-obstacle-avoiding-rover/blob/main/Object_Detection_Pi_Camera
+wget https://github.com/Sahilofficial/Object-Detection-on-Raspberry-Pi-with-Obstacle-Avoiding-Rover/blob/main/Object_Detection_Pi_Camera
 ```
 Run the script by issuing: 
 ```
@@ -96,4 +96,4 @@ Once the script initializes (which can take up to 30 seconds), you will see a wi
 With the SSDLite model, the Raspberry Pi 3 performs fairly well, achieving a frame rate higher than 1FPS. This is fast enough for most real-time object detection applications.
 
 ### Final Project Images
-![Final Project Images](https://github.com/AbhishekTyagi404/Object-Detection-on-Raspberry-Pi-with-obstacle-avoiding-rover/blob/main/Images/Final%20Project%20Images.png)
+![Final Project Images](https://github.com/Sahilofficial/Object-Detection-on-Raspberry-Pi-with-obstacle-avoiding-rover/blob/main/Images/Final%20Project%20Images.png)
